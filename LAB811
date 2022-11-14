@@ -1,5 +1,6 @@
 <html lang="ua">
     <head>
+      #Це було не складно
         <title> де мій кіт</title>
         <link rel="stylesheet" href="style.css">
       </head>
@@ -20,7 +21,7 @@
           </aside>
         </main>
         <footer>
-          Підвал сайту
+          Підвал кішки
         </footer>
       </body>
 </html>
